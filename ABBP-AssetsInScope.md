@@ -107,5 +107,4 @@ https://rainbowbridge.app/
 
 ## Additional information ##  
 
-Aurora Bug Bounty Program details: https://aurora.dev/bug-bounty-program  
 Aurora Security policy (including information of how to report an incident): https://github.com/aurora-is-near/.github/security/policy  
