@@ -107,4 +107,5 @@ https://rainbowbridge.app/
 
 ## Additional information ##  
 
+Aurora Bug Bounty Program with Immunefi: https://immunefi.com/bounty/aurora/
 Aurora Security policy (including information of how to report an incident): https://github.com/aurora-is-near/.github/security/policy  
