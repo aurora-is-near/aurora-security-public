@@ -98,6 +98,8 @@ https://github.com/aurora-is-near/aurora-engine/tree/develop/etc/eth-contracts
 https://github.com/near-daos/sputnik-dao-contract  
 https://explorer.near.org/accounts/auroradao.sputnik-dao.near  
 
+### Sputnik EVM ###  
+https://github.com/aurora-is-near/sputnikvm
 
 
 ## Web app ##  
@@ -107,5 +109,5 @@ https://rainbowbridge.app/
 
 ## Additional information ##  
 
-Aurora Bug Bounty Program with Immunefi: https://immunefi.com/bounty/aurora/
+Aurora Bug Bounty Program with Immunefi: https://immunefi.com/bounty/aurora/  
 Aurora Security policy (including information of how to report an incident): https://github.com/aurora-is-near/.github/security/policy  
