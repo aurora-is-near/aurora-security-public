@@ -44,6 +44,11 @@ https://github.com/aurora-is-near/rainbow-token-connector/tree/init_release
 https://etherscan.io/address/0x23ddd3e3692d1861ed57ede224608875809e127f  
 
 
+**Eth-connector**   
+EthCustodian (on Ethereum)   
+https://github.com/aurora-is-near/eth-connector/releases/tag/0.3   
+https://etherscan.io/address/0x6BFaD42cFC4EfC96f529D786D643Ff4A8B89FA52
+
 
 **eNEAR connector**  
 eNEAR (on Ethereum)  
