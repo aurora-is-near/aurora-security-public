@@ -99,10 +99,6 @@ https://github.com/aurora-is-near/aurora-engine/tree/develop/etc/eth-contracts
 *Always mention if the issue is on deployed or development code when reporting issue for aurora engine.*
 
 
-### SputnikDAO ###  
-https://github.com/near-daos/sputnik-dao-contract  
-https://explorer.near.org/accounts/auroradao.sputnik-dao.near  
-
 ### Sputnik EVM ###  
 https://github.com/aurora-is-near/sputnikvm
 
