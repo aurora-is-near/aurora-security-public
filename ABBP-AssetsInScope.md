@@ -9,15 +9,14 @@ Complete list of Assets in Scope for Aurora Bug Bounty Program.
 
 NEAR Client (on Ethereum)  
 https://github.com/aurora-is-near/rainbow-bridge/releases/tag/0.3  
-https://etherscan.io/address/0x3be7Df8dB39996a837041bb8Ee0dAdf60F767038  
+[Etherscan link to be added shortly.]
 
 NEAR Prover (on Ethereum)  
 https://github.com/aurora-is-near/rainbow-bridge/releases/tag/0.1  
 https://etherscan.io/address/0x051ad3f020274910065dcb421629cd2e6e5b46c4  
 
 EthClient (on NEAR)  
-https://github.com/aurora-is-near/rainbow-bridge/releases/tag/0.2  
-https://explorer.near.org/accounts/client.bridge.near  
+[Currently not in scope until further notice.] 
 
 
 EthProver (on NEAR)  
